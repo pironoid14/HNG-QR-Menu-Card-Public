@@ -1,6 +1,6 @@
 import React from 'react'
 import QRCode from 'qrcode.react';
-import { Card, CardContent, CardHeader } from '@shadcn/ui/react'; // Or your desired components
+import { Card, CardContent, CardHeader } from '@shadcn/ui/react'; 
 const qrcode = ({url}) => {
   return (
     
